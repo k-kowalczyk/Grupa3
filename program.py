@@ -11,3 +11,4 @@ elif wiek>120:
     print("W Twoim wieku picie jest ekstremalne, pijesz na własne ryzyko")
 else:
     exit("Jesteś za młoda/y na alkohol. Zapraszamy na disney.com")
+
